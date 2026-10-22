@@ -11,7 +11,7 @@ these labs are 100% physical on real hardware, using these devices:
 - Ubiquiti UniFi Dream Machine Pro (gateway)
 - Eero mesh system
 - Debian laptop (main workstation)
-- Server rack with surge
+- Server rack
 - Cat6 patch cabling
 - Console rollover cable
 
