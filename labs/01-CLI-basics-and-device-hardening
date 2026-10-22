@@ -1,0 +1,6 @@
+# Overview
+A company just got a new router. What I'm doing is setting up a name and a banner, and locking down every way into it, with SSH as the only way in remotely. 
+This is the baseline for every new device.
+
+#Objective
+name the router fully, make the key, create the user, then lock the VTY lines.
