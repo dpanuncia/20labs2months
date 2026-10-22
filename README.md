@@ -22,6 +22,7 @@ My projects are done in 3 simple steps in order for me to lock it in:
 1. Do the project with assistance from AI while I take detailed notes
 2. Do the lab once more with just my notes and nothing else
 3. Do the lab strictly using memory
+
 Only then will they be uploaded on GitHub and posted on LinkedIn.
 
 
